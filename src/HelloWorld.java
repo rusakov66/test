@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class HelloWorld {
-/* test for git */
+/* test 2 for git */
     public static <string> void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
         Scanner in = new Scanner(System.in);
