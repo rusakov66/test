@@ -1,7 +1,6 @@
 package rusakov;
 
 public class Task1 {
-    public String result;
     public String calc(String str){
         boolean flag = true;
         for (int i = 0; i <= (str.length() / 2) - 1; i = i + 1) {
