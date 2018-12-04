@@ -1,5 +1,5 @@
 package rusakov;
-
+// Given a string of characters, determine if it is a palindrome or not
 public class Task1 {
     public String calc(String str){
         boolean flag = true;

@@ -1,7 +1,7 @@
 package rusakov;
 import java.util.Scanner;
 public class ResolvedClass {
-    public static <string> void main(String[] args) {
+    public static  void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("Input string: ");
         String str = in.nextLine();
@@ -15,7 +15,7 @@ public class ResolvedClass {
         Task2 t2 = new Task2();
         String str3 = t2.Task2(num);
 
-        // System.out.println(str3);
+        // Main
 
 
     }
